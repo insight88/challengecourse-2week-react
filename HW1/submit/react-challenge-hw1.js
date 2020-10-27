@@ -1,30 +1,21 @@
 class ObjectUtilities {
-  /* Your magic here */
   constructor(objA, objB) {
     this.objA = objA;
     this.objB = objB;
   }
 
-  mergeObjects(objA, objB) {
-    return { ...objA, ...objB };
-  }
+  mergeObjects = (objA, objB) => ({ ...objA, ...objB });
 
-  removePassword() {
-    return objA;
-  }
+  removePassword = () => objA;
 
   freezeObj() {
     Object.freeze(objA);
     return objA;
   }
 
-  getOnlyValues() {
-    return Object.values(objA);
-  }
+  getOnlyValues = () => Object.values(objA);
 
-  getOnlyProperties() {
-    return Object.keys(objA);
-  }
+  getOnlyProperties = () => Object.keys(objA);
 }
 
 const objA = {
