@@ -8,8 +8,11 @@
 
 ## 일별 과제
 
-* Day 1 : [이미지 링크]()
-* Day 2 : 
+* Day 1 : ES6 (Arrow Function, Template Literals, Object Destructuring, Spread Operator, Classes)
+* Day 2 : ES6 (Array map, Array filter, forEach)
+* Day 3 : React Router
+* Day 4 : Styled Component
+* Day 5 : 
 
 ## 학습 기간
 

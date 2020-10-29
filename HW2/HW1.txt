@@ -1,8 +1,0 @@
-상세 설명:
-Complete the "ArrayUtilities" class with the following functions:
-
-addZeros: Add zeros to all the numbers. Return an array of numbers.
-moreThanFifty: Remove the numbers that are not more than 50. Return an array of numbers.
-removeFirst: Remove the first element of the array. Return an array of numbers.
-sumAll: Sum all the elements of the array. Return ONE number.
-divide: Take a number and divide it into an array.
